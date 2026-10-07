@@ -4,7 +4,7 @@ Bem-vindo ao repositório oficial do projeto! Esta página reúne informações,
 
 ## 🔗 Acesse o Artigo Completo e Interativo
 Para ler nossa análise detalhada, depoimentos e atualizações para 2027 | 2028, acesse o link do nosso Web App oficial:
-👉 **[CLIQUE AQUI PARA LER O ARTIGO COMPLETO]((https://script.google.com/macros/s/AKfycbxBb-kvBkt5CfylT30ZckdnyZhPNPM9lJ5MKApOZR7x57C9NMWT8brh4I9P4eKK_q439g/exec))**
+👉 **[CLIQUE AQUI PARA LER O ARTIGO COMPLETO]((https://script.google.com/macros/s/AKfycbxBb-kvBkt5CfylT30ZckdnyZhPNPM9lJ5MKApOZR7x57C9NMWT8brh4I9P4eKK_q439g/exec)**
 
 ---
 
